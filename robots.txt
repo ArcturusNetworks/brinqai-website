@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brinqai.com/sitemap.xml
